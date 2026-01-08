@@ -18,7 +18,7 @@
 
 * [Network analysis](module-3-spatial-algirithm/network-analysis.md)
 * [AM/FM GIS](module-3-spatial-algirithm/am-fm-gis.md)
-* [revist hydrology analysis](module-3-spatial-algirithm/revist-hydrology-analysis.md)
+* [revisit hydrology analysis](module-3-spatial-algirithm/revisit-hydrology-analysis.md)
 
 ## Module 4 Hydrology analysis
 
