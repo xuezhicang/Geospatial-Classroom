@@ -35,9 +35,8 @@
 ## Module 6 Web mapping
 
 * [Web mapping](module-6-web-mapping/web-mapping.md)
-* [ETL](module-6-web-mapping/etl.md)
-* [Page 3](module-6-web-mapping/page-3.md)
 
 ## Module 7 GeoAI
 
-* [Page 4](module-7-geoai/page-4.md)
+* [Graph Neural Network](module-7-geoai/graph-neural-network.md)
+* [Fine-Tuning LLMs](module-7-geoai/fine-tuning-llms.md)
