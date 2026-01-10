@@ -28,7 +28,7 @@ return 10
 def g():\
 print(10)
 
-## scope
+## Scope
 
 ### Local variables
 
@@ -36,28 +36,29 @@ print(10)
 
 * `global` keyword
 
-```
+```python
 // Some code
-# 1. 全局变量
-count = 10 
+# 1. Global variable
+count = 10
 
 def modify_global():
-    global count # 声明 count 是全局变量
-    count = 20 # 修改全局变量
-    print(f"在函数内部（修改后）: {count}") # 输出 20
+    global count  # Declare that we are using the global variable 'count'
+    count = 20    # Modify the global variable
+    print(f"Inside function (after modification): {count}")  # Output: 20
 
 def create_local():
-    # 这里没有使用 global，所以会创建一个新的局部变量
-    count = 5 
-    print(f"在函数内部（局部变量）: {count}") # 输出 5
+    # No 'global' keyword here, so this creates a new local variable
+    count = 5
+    print(f"Inside function (local variable): {count}")  # Output: 5
 
-# 调用函数
-print(f"函数调用前: {count}") # 输出 10
+# Function calls
+print(f"Before function call: {count}")  # Output: 10
 modify_global()
-print(f"函数调用后 (global): {count}") # 输出 20 (被修改了)
+print(f"After function call (global): {count}")  # Output: 20 (global variable changed)
 
 create_local()
-print(f"函数调用后 (local): {count}") # 输出 20 (全局 count 没变)
+print(f"After function call (local): {count}")  # Output: 20 (global variable unchanged)
+
 ```
 
 

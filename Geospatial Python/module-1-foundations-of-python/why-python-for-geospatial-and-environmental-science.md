@@ -18,7 +18,7 @@ Why do we need to learn Python? Why not R, C++, Java, or JavaScript? What about 
 
 ## Scripts vs notebooks
 
-Download and install Python exe
+Download and install the Python exe
 
 configuration IDE
 

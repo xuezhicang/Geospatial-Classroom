@@ -1,14 +1,13 @@
 # Table of contents
 
-* [week 0](README.md)
-* [Teaching Schedule](teaching-schedule.md)
+* [Teaching Schedule](README.md)
 
 ## Module 1  Foundations of Python
 
 * [Why Python for Geospatial and Environmental Science](module-1-foundations-of-python/why-python-for-geospatial-and-environmental-science.md)
 * [Python environment management](module-1-foundations-of-python/python-environment-management.md)
 * [Data type](module-1-foundations-of-python/data-type.md)
-* [Control Flow & Algorithmic](module-1-foundations-of-python/control-flow-and-algorithmic.md)
+* [Control Flow](module-1-foundations-of-python/control-flow.md)
 * [Function](module-1-foundations-of-python/function.md)
 * [Iteration and recursion, and Algorithm](module-1-foundations-of-python/iteration-and-recursion-and-algorithm.md)
 * [Syntactic sugar](module-1-foundations-of-python/syntactic-sugar.md)
@@ -16,7 +15,6 @@
 ## Module 2 Object-Oriented Programmi
 
 * [OOP](module-2-object-oriented-programmi/oop.md)
-* [Example](module-2-object-oriented-programmi/example.md)
 * [Project code organization](module-2-object-oriented-programmi/project-code-organization.md)
 
 ## Module 3: Python Applications
