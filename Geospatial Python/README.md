@@ -1,19 +1,3 @@
-# Teaching Schedule
+# Schedule
 
-|         | Topoic                                                                              |
-| ------- | ----------------------------------------------------------------------------------- |
-| Week 1  | Why Python for Geospatial & Environmental Science and Python environment management |
-| Week 2  | Data Types & Data Structures                                                        |
-| Week 3  | Control Flow (if/else, loops) -1                                                    |
-| Week 4  | Control Flow (if/else, loops) -2                                                    |
-| Week 5  | Functions                                                                           |
-| Week 6  | Iteration, Recursion & Algorithm Thinking                                           |
-| Week 7  | Python Syntax Sugar & Code Efficiency                                               |
-| Week 8  | OOP and Project Code Organization & Best Practices                                  |
-| Week 9  | NumPy, Pandas & GeoPandas                                                           |
-| Week 10 | Rasterio, GDAL, PIL & OpenCV                                                        |
-| Week 11 | SciPy ,Scikit-learn and & Vectorization                                             |
-| Week 12 | Vector & Raster Operations in GIS                                                   |
-| Week 13 | Geospatial Visualization                                                            |
-| Week 14 | Google Earth Engine                                                                 |
-| Week 15 | Final Project                                                                       |
+<table><thead><tr><th width="154"></th><th>Topoic</th></tr></thead><tbody><tr><td>Week 1</td><td>Why Python for Geospatial &#x26; Environmental Science and Python environment management</td></tr><tr><td>Week 2</td><td>Data Types &#x26; Data Structures</td></tr><tr><td>Week 3</td><td>Control Flow (if/else, loops) -1 </td></tr><tr><td>Week 4</td><td>Control Flow (if/else, loops) -2</td></tr><tr><td>Week 5</td><td>Functions</td></tr><tr><td>Week 6</td><td>Iteration, Recursion &#x26; Algorithm Thinking</td></tr><tr><td>Week 7</td><td>Python Syntax Sugar &#x26; Code Efficiency</td></tr><tr><td>Week 8</td><td>OOP and Project Code Organization &#x26; Best Practices</td></tr><tr><td>Week 9</td><td>NumPy, Pandas &#x26; GeoPandas</td></tr><tr><td>Week 10</td><td>Rasterio, GDAL, PIL &#x26; OpenCV</td></tr><tr><td>Week 11</td><td>SciPy ,Scikit-learn and &#x26; Vectorization</td></tr><tr><td>Week 12</td><td>Vector &#x26; Raster Operations in GIS </td></tr><tr><td>Week 13</td><td>Geospatial Visualization </td></tr><tr><td>Week 14</td><td>Google Earth Engine</td></tr><tr><td>Week 15</td><td>Final Project</td></tr></tbody></table>

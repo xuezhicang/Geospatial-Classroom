@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Teaching Schedule](README.md)
+* [Schedule](README.md)
 
 ## Module 1  Foundations of Python
 
 * [1.1 Why Python for Geospatial and Environmental Science](module-1-foundations-of-python/1.1-why-python-for-geospatial-and-environmental-science.md)
 * [1.2 Python environment management](module-1-foundations-of-python/1.2-python-environment-management.md)
-* [1.3 Data type](module-1-foundations-of-python/1.3-data-type.md)
+* [1.3 Data Types and Data Structures](module-1-foundations-of-python/1.3-data-types-and-data-structures.md)
 * [1.4 Control Flow](module-1-foundations-of-python/1.4-control-flow.md)
 * [1.5 Function](module-1-foundations-of-python/1.5-function.md)
 * [1.6 Iteration and recursion, and Algorithm](module-1-foundations-of-python/1.6-iteration-and-recursion-and-algorithm.md)
