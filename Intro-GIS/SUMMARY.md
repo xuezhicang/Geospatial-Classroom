@@ -9,30 +9,30 @@
 
 ## Module 1 Foundations of GIS
 
-* [Introduction of GIS](module-1-foundations-of-gis/introduction-of-gis.md)
-* [Maps and Cartography](module-1-foundations-of-gis/maps-and-cartography.md)
+* [1.1 Introduction of GIS](module-1-foundations-of-gis/1.1-introduction-of-gis.md)
+* [1.2 Maps and Cartography](module-1-foundations-of-gis/1.2-maps-and-cartography.md)
 
 ## Module 2 Spatial Data
 
-* [Spatial data](module-2-spatial-data/spatial-data.md)
-* [Creating & Collecting Spatial Data](module-2-spatial-data/creating-and-collecting-spatial-data.md)
+* [2.1 Spatial data](module-2-spatial-data/2.1-spatial-data.md)
+* [2.2 Collecting Spatial Data](module-2-spatial-data/2.2-collecting-spatial-data.md)
 
 ## Module 3 Spatial Anlysis
 
-* [Spatial Analysis - Vector](module-3-spatial-anlysis/spatial-analysis-vector.md)
-* [Spatial Analysis - Raster](module-3-spatial-anlysis/spatial-analysis-raster.md)
-* [Hydrology analysis](module-3-spatial-anlysis/hydrology-analysis.md)
-* [Network anlaysis](module-3-spatial-anlysis/network-anlaysis.md)
+* [3.1 Spatial Analysis - Vector](module-3-spatial-anlysis/3.1-spatial-analysis-vector.md)
+* [3.2 Spatial Analysis - Raster](module-3-spatial-anlysis/3.2-spatial-analysis-raster.md)
+* [3.3 Hydrology analysis](module-3-spatial-anlysis/3.3-hydrology-analysis.md)
+* [3.4 Network Analysis](module-3-spatial-anlysis/3.4-network-analysis.md)
 
 ## Module 4  Interpolation
 
-* [Interpolation](module-4-interpolation/interpolation.md)
+* [4.1 Interpolation](module-4-interpolation/4.1-interpolation.md)
 
 ## MODULE 5 Web GIS
 
-* [WebGIS](module-5-web-gis/webgis.md)
+* [5.1 WebGIS](module-5-web-gis/5.1-webgis.md)
 
-## Final projects
+## MODULE 6 Final projects
 
-* [Final Project](final-projects/final-project.md)
-* [What You Should Learn After This Class](final-projects/what-you-should-learn-after-this-class.md)
+* [6.1 Final Project](module-6-final-projects/6.1-final-project.md)
+* [6.2 What You Should Learn After This Class](module-6-final-projects/6.2-what-you-should-learn-after-this-class.md)
