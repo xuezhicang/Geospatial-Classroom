@@ -25,7 +25,7 @@
 
 ## MOdule 5 Spatial Interaction
 
-* [5.1 ial Intersection](module-5-spatial-interaction/5.1-ial-intersection.md)
+* [5.1 Spatial Intersection](module-5-spatial-interaction/5.1-spatial-intersection.md)
 
 ## Module 6 Web mapping
 
