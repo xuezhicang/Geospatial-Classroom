@@ -10,7 +10,8 @@
 
 ## Module 2 Sensors and Platforms
 
-* [Page 1](module-2-sensors-and-platforms/page-1.md)
+* [Spatial, Spectral, Temporal & Radiometric Resolution](module-2-sensors-and-platforms/spatial-spectral-temporal-and-radiometric-resolution.md)
+* [Major Earth Observation Satellites](module-2-sensors-and-platforms/major-earth-observation-satellites.md)
 
 ## Module 3 Digital Images
 
