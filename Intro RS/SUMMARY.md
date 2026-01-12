@@ -30,4 +30,4 @@
 
 ## Module 5 Advanced RS methods
 
-* [New methods](module-5-advanced-rs-methods/new-methods.md)
+* [New RS Methods](module-5-advanced-rs-methods/new-rs-methods.md)
