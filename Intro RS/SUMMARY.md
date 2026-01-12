@@ -24,6 +24,7 @@
 
 * [Unsupervised classification](module-4-image-classification-and-change-detection/unsupervised-classification.md)
 * [Supervised classification](module-4-image-classification-and-change-detection/supervised-classification.md)
+* [Change Detection](module-4-image-classification-and-change-detection/change-detection.md)
 * [Object-based image analysis](module-4-image-classification-and-change-detection/object-based-image-analysis.md)
 * [Pixel-based classification](module-4-image-classification-and-change-detection/pixel-based-classification.md)
 
